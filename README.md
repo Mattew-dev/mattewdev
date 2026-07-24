@@ -3,7 +3,7 @@
 
 - 🔭 Attualmente sto lavorando su [TerritAPI](https://www.territ.it)
 
-- 🌱 Attualmente sto studiando **Ingegneria Informatica** e sto apprendendo molti linguaggi e best practice 
+- 🌱 Attualmente sto studiando **Ingegneria Informatica**, apprendendo molto
 
 - ⚡**Ascolto musica e mi piace il simracing**
 
