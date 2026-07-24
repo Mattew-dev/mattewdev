@@ -7,7 +7,7 @@
 
 - 🌱 Attualmente sto imparando **React, NodeJS, NextJS e Spring**
 
-- ⚡**Ascolto musica e mi piace leggere**
+- ⚡**Ascolto musica e mi piace fare simracing**
 
 <p align="left">
 </p>
